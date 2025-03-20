@@ -9,6 +9,7 @@ gcc shainc.c --std=c89 -Wall -Wextra -Werror -Wpedantic -O2 -o shainc
 #include <stdlib.h> /* exit     */
 #include <string.h> /* memcpy   */
 
+/* nominal change again */`
 
 /* round constants */
 /* network endian */
